@@ -1,0 +1,8 @@
+torch
+transformers
+TTS
+openai-whisper
+sounddevice
+sacrebleu
+datasets
+streamlit
